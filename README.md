@@ -47,7 +47,7 @@ More information about the package and its parameters can be found here:
 
 ## File Format and Parameter Description
 
-Each file in the database is a netCDF file that contains one year of data*. Every line (row) of the file contains following variables** for each convective system:
+Each file in the database is a netCDF file that contains one year of data. Every line (row) of the file contains following variables for each convective system:
 
 1. frame - id number of a timeframe a convective system belongs to (Each frame represents a 3 hour period. The variable is required to calculate eccentricity, orientation, central latitude, central longitude, axis major length and axis minor length of a convective system).
 2. feature - a unique id of a convective system.
@@ -104,8 +104,8 @@ Each file in the database is a netCDF file that contains one year of data*. Ever
 53. inclination - tilt of the ellipse’s plane relative to the Earth’s equatorial plane.
 54. eccentricity - measure of how much the ellipse deviates from a perfect circle.
 
-- * Missing values in the database are represented by NaN (Not-a-Number)
-- ** Detection and tracking of convective clusters within convective systems is not supported by TOBAC at the time, therefore several statistical parameters describing these clusters are absent from the database. 
+- Missing values in the database are represented by NaN (Not-a-Number)
+- Detection and tracking of convective clusters within convective systems is not supported by TOBAC at the time, therefore several statistical parameters describing these clusters are absent from the database. 
 
 ## References
 
