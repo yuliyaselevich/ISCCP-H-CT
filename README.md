@@ -42,8 +42,8 @@ The following parameters were used for feature linking:
 
 More information about the package and its parameters can be found here: 
 
-[TOBAC Documentation](https://tobac.readthedocs.io)
-[TOBAC GitHub](https://github.com/tobac-project/tobac)
+- [TOBAC Documentation](https://tobac.readthedocs.io)
+- [TOBAC GitHub](https://github.com/tobac-project/tobac)
 
 ## File Format and Parameter Description
 
@@ -109,17 +109,16 @@ Each file in the database is a netCDF file that contains one year of data*. Ever
 
 ## References
 
-Machado, L.A.T., and W.B. Rossow, 1993: Structural characteristics and radiative properties of tropical cloud clusters. Mon. Wea. Rev, 121, 3234-3260.
-Machado, L.A.T., W.B. Rossow, R.L. Guedes, and A.W. Walker, 1998: Life cycle variations of mesoscale convective systems over the Americas. Mon. Wea. Rev., 126, 1630-1654.
-Schiffer, R.A., and W.B. Rossow, 1983: The International Satellite Cloud Climatology Project (ISCCP): The first project of the World Climate Research Programme. Bull. Amer. Meteor. Soc., 64, 779-784.
+- Machado, L.A.T., and W.B. Rossow, 1993: Structural characteristics and radiative properties of tropical cloud clusters. Mon. Wea. Rev, 121, 3234-3260.
+- Machado, L.A.T., W.B. Rossow, R.L. Guedes, and A.W. Walker, 1998: Life cycle variations of mesoscale convective systems over the Americas. Mon. Wea. Rev., 126, 1630-1654.
+- Schiffer, R.A., and W.B. Rossow, 1983: The International Satellite Cloud Climatology Project (ISCCP): The first project of the World Climate Research Programme. Bull. Amer. Meteor. Soc., 64, 779-784.
 
 ## Contacts for Information
 
-Yuliya Selevich (yuliya.selevich@gmail.com)
-Zhengzhao Johnny Luo (z.johnny.luo@gmail.com)
-Hanii Takahashi (hanii.takahashi@jpl.nasa.gov)
+- Yuliya Selevich (yuliya.selevich@gmail.com)
+- Zhengzhao Johnny Luo (z.johnny.luo@gmail.com)
+- Hanii Takahashi (hanii.takahashi@jpl.nasa.gov)
 
 ## Data Size Information
 
-The database comprises annual data stored in both CSV and netCDF formats, 
-with each CSV file averaging 1.3 GB in size and each netCDF file averaging 1.1 GB in size.
+The database comprises annual data stored in both CSV and netCDF formats, with each CSV file averaging 1.3 GB in size and each netCDF file averaging 1.1 GB in size.
