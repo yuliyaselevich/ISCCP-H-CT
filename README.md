@@ -104,8 +104,8 @@ Each file in the database is a netCDF file that contains one year of data*. Ever
 53. inclination - tilt of the ellipse’s plane relative to the Earth’s equatorial plane.
 54. eccentricity - measure of how much the ellipse deviates from a perfect circle.
 
-* Missing values in the database are represented by NaN (Not-a-Number)
-** Detection and tracking of convective clusters within convective systems is not supported by TOBAC at the time, therefore several statistical parameters describing these clusters are absent from the database. 
+- * Missing values in the database are represented by NaN (Not-a-Number)
+- ** Detection and tracking of convective clusters within convective systems is not supported by TOBAC at the time, therefore several statistical parameters describing these clusters are absent from the database. 
 
 ## References
 
